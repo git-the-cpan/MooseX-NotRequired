@@ -11,11 +11,11 @@ MooseX::NotRequired - Make Moose sub classes with non required attributes.
 
 =head1 VERSION
 
-Version 0.11
+Version 0.12
 
 =cut
 
-our $VERSION = '0.11';
+our $VERSION = '0.12';
 
 
 =head1 SYNOPSIS
@@ -98,9 +98,8 @@ Colin Newell, C<< <colin.newell at gmail.com> >>
 
 =head1 BUGS
 
-Please report any bugs or feature requests to C<bug-moosex-notrequired at rt.cpan.org>, or through
-the web interface at L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=MooseX-NotRequired>.  I will be notified, and then you'll
-automatically be notified of progress on your bug as I make changes.
+Please report any bugs or feature requests to L<https://github.com/colinnewell/MooseX-NotRequired/issues>.  I will be 
+notified, and then you'll automatically be notified of progress on your bug as I make changes.
 
 
 =head1 SUPPORT
@@ -114,9 +113,13 @@ You can also look for information at:
 
 =over 4
 
-=item * RT: CPAN's request tracker (report bugs here)
+=item * Github request tracker (report bugs here)
 
-L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=MooseX-NotRequired>
+L<https://github.com/colinnewell/MooseX-NotRequired/issues>
+
+=item * Github source code repository
+
+L<https://github.com/colinnewell/MooseX-NotRequired/>
 
 =item * AnnoCPAN: Annotated CPAN documentation
 
@@ -141,7 +144,7 @@ The Birmingham Perl Mongers also provided input which helped refine and improve 
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright 2011-2012 OpusVL.
+Copyright 2011-2015 OpusVL.
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of either: the GNU General Public License as published

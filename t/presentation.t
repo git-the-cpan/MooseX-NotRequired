@@ -62,7 +62,7 @@ throws_ok
         total_value     => 'a',
         notes           => undef 
     });
-} qr'does not pass the type constraint because'i, 
+} qr'does not pass the type constraint because|Attribute \(customer\) is required'i, 
     'Type constraints still work on original class';
 
 # and lets prove that the type restrictions preventing

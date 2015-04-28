@@ -12,11 +12,8 @@ auto_install;
 
 resources(
         'homepage',   => 'https://github.com/colinnewell/MooseX-NotRequired',
-        'repository', => {
-            web => 'https://github.com/colinnewell/MooseX-NotRequired',
-            url => 'git://github.com/colinnewell/MooseX-NotRequired.git',
-            type => 'git',
-        },
+        'bugtracker',   => 'https://github.com/colinnewell/MooseX-NotRequired/issues',
+        'repository', => 'git://github.com/colinnewell/MooseX-NotRequired.git',
         'license',    => 'http://dev.perl.org/licenses/',
 );
 
